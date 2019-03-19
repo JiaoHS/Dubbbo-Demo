@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-parent/common-parent.iml" filepath="$PROJECT_DIR$/common-parent/common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/edu-api/edu-api.iml" filepath="$PROJECT_DIR$/common-parent/edu-api/edu-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/edu-dao/edu-dao.iml" filepath="$PROJECT_DIR$/common-parent/edu-dao/edu-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/edu-eb-facade-userservice/edu-eb-facade-userservice.iml" filepath="$PROJECT_DIR$/common-parent/edu-eb-facade-userservice/edu-eb-facade-userservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/edu-eb-userservice-impl/edu-eb-userservice-impl.iml" filepath="$PROJECT_DIR$/common-parent/edu-eb-userservice-impl/edu-eb-userservice-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/edu-eb-web/edu-eb-web.iml" filepath="$PROJECT_DIR$/common-parent/edu-eb-web/edu-eb-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/edu-eb-web2/edu-eb-web2.iml" filepath="$PROJECT_DIR$/common-parent/edu-eb-web2/edu-eb-web2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/edu-manager/edu-manager.iml" filepath="$PROJECT_DIR$/common-parent/edu-manager/edu-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/edu-model/edu-model.iml" filepath="$PROJECT_DIR$/common-parent/edu-model/edu-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/edu-service/edu-service.iml" filepath="$PROJECT_DIR$/common-parent/edu-service/edu-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-parent/eduebfacadeuserservice.iml" filepath="$PROJECT_DIR$/common-parent/eduebfacadeuserservice.iml" />
+    </modules>
+  </component>
+</project>
