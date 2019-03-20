@@ -12,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/common-parent/edu-manager/edu-manager.iml" filepath="$PROJECT_DIR$/common-parent/edu-manager/edu-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-parent/edu-model/edu-model.iml" filepath="$PROJECT_DIR$/common-parent/edu-model/edu-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-parent/edu-service/edu-service.iml" filepath="$PROJECT_DIR$/common-parent/edu-service/edu-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common-parent/eduebfacadeuserservice.iml" filepath="$PROJECT_DIR$/common-parent/eduebfacadeuserservice.iml" />
     </modules>
   </component>
 </project>
